@@ -57,7 +57,7 @@ public class SpawnManagerX : MonoBehaviour
         }
 
         waveCount++;
-        enemySpeed += 25;
+        enemySpeed += 50;
         ResetPlayerPosition(); // put player back at start
 
     }
